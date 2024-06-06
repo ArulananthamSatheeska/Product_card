@@ -1,4 +1,4 @@
-### Product card using
- # HTML
- # CSS
- # Javascript
+# Product card using
+ HTML
+ CSS
+ Javascript
